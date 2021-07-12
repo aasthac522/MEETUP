@@ -63,7 +63,7 @@ Webinars were held as part of the programe to teach us Agile Methodology. Agile 
 
 <br>
 Clone this repository.
-<li>For more information refer this [Documentation]</li>
+<li>For more information refer this Documentation: https://drive.google.com/file/d/1tOFGXfvEMMNSHjVmi_CGsJKrYJlMhVYa/view?usp=sharing</li>
 
 
 In the project folder, open terminal to download the node modules-
