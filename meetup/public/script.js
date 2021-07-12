@@ -154,7 +154,7 @@ const setMuteButton = () => {
 document.getElementById('leave-meeting').addEventListener('click', () => {
   const leaveRoom = confirm('Are you sure you want to leave Meetup?');
   if (leaveRoom) {
-     window.location = '1.html';
+     window.location = 'end.html';
     // window.close();
   } else {
   }
