@@ -9,11 +9,11 @@ TO TURN SOCIAL DISTANCING INTO DISTANT SOCIALIZING
 <br>
 
 ## Problem Statement
-----------------------
+
 To build a fully functional prototype with at least one mandatory functionality - a minimum of two participants should be able to connect using the product to have a video conversation.
 
 ## Video Demo 
--------------------
+
 This is the link to video demo: 
 
 ## Features built
@@ -31,7 +31,7 @@ This is the link to video demo:
 10. Multiple users can join the meeting.
 
 ## Agile Methodology
-----------------------
+
 Webinars were held as part of the programe to teach us Agile Methodology. Agile Scrum Methodology is a project management methodology that is best used to improve a project iteration by iteration. Each iteration is divided into sprints, with the goal of building the most important feature first and then improving the project as a potentially deliverable product.
 
 1. Explored all the libraries and packages, Finally used WebRTC.
@@ -43,8 +43,6 @@ Webinars were held as part of the programe to teach us Agile Methodology. Agile 
 
 
 ## Technologies Used 
-----------------------
-
 
 1. WebRTC
 2. HTML 
@@ -60,7 +58,7 @@ Webinars were held as part of the programe to teach us Agile Methodology. Agile 
 
 
 ### Local Setup
------------------
+
 
 <br>
 Clone this repository.
@@ -85,9 +83,9 @@ npm i uuid
 
 nodemon
 ```
-```bash
-Open  <strong>localhost 3030</strong> in your browser to see the home page of the website.
-```
+
+<li>Open <strong>localhost 3030</strong> in your browser to see the home page of the website.</li>
+
 
 <br>
 <li><strong>To access the web app, in your project code folder, navigate to public/landing-page and from there open index.html on any browser of your preference.</strong></li>
@@ -95,7 +93,7 @@ Open  <strong>localhost 3030</strong> in your browser to see the home page of th
 
 
 ## Screenshots
-----------------
+
 <br>
 
 <img src="ss\portfolio-3.jpeg" width="450" height="250"/>
