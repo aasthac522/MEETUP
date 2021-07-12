@@ -160,48 +160,5 @@ document.getElementById('leave-meeting').addEventListener('click', () => {
   }
 });
 
-// //Asking the user his name through prompt
-// const userName = prompt('What is your name?')
-// socket.emit('new-user', userName)
-
-// let myScreenStream;
-
-// const startButton = document.getElementById('startButton');
-// startButton.addEventListener('click', (e) => {
-//   if (adapter.browserDetails.browser == 'firefox') {
-//     adapter.browserShim.shimGetDisplayMedia(window, 'screen');
-//   }
-//   const myVideo=document.createElement('video')
-//   navigator.mediaDevices.getDisplayMedia({
-//     video: true
-//   }).then(stream => {
-//     myScreenStream = stream;
-//     // selfVideoBox.srcObject = stream;
-//     // selfVideoBox.addEventListener("loadedmetadata", () => {
-//     // selfVideoBox.play();
-//     //addVideoStream(myVideo, stream);
-//     socket.emit('screen-share', stream);
-
-//     } );
-    
-//   //const screenStream=navigator.mediaDevices.getDisplayMedia({video: true});
-//   //socket.emit('screen-share', stream);
-// })
 
 
-// socket.on('screenShare', (stream, userName) => {
-//   //connectToNewUser(userId, stream)                                  
-
-//   // if (adapter.browserDetails.browser == 'firefox') {
-//   //   adapter.browserShim.shimGetDisplayMedia(window, 'screen');
-//   // }
-
-//   // navigator.mediaDevices.getDisplayMedia({video: true})
-//   //       .then(handleSuccess, handleError);
-//     startButton.disabled = true;
-//     const video = document.createElement('video');
-//     let screenStream=stream;
-//     addVideoStream(video, screenStream);
-//     $("ul").append(`<br><h6 style="color: MediumSeaGreen;"><i><li class="message">${userName}<b>-started screen sharing</b></li><i></h6><br>`);
-    
-// })
