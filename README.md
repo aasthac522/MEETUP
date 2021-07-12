@@ -27,8 +27,9 @@ This is the link to video demo:
 6. Text Chat
 7. Simple and intuitive UI
 8. Securely connect and collaborate
-9. Leave/Join Meeting 
-10. Multiple users can join the meeting.
+9. Invite anyone
+10. Leave/Join Meeting 
+11. Multiple users can join the meeting.
 
 ## Agile Methodology
 
