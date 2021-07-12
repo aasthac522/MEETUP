@@ -1,6 +1,6 @@
 # MEETUP
 ## Microsoft Teams Clone
-<img src="ss\logogit.png" width="150" height="150"/>
+<img src="ss\logogit.png" width="250" height="250"/>
 
 ### THE BEST CROSS-PLATFORM
 TO TURN SOCIAL DISTANCING INTO DISTANT SOCIALIZING
@@ -96,9 +96,9 @@ nodemon
 ## Screenshots
 
 <br>
-<img src="ss\portfolio-3.jpeg" width="450" height="250"/>
-<img src="ss\portfolio-4.jpeg" width="450" height="250"/>
-<img src="ss\portfolio-2.jpeg" width="450" height="250"/>
+<img src="ss\portfolio-3.jpeg" width="650" height="350"/>
+<img src="ss\portfolio-4.jpeg" width="650" height="350"/>
+<img src="ss\portfolio-2.jpeg" width="650" height="350"/>
 
 
 
