@@ -150,6 +150,14 @@ const setMuteButton = () => {
   document.getElementById("muteButton").innerHTML = html;
 };
 
+const inviteButton = document.querySelector("#inviteButton");
+inviteButton.addEventListener("click", (e) => {
+  prompt(
+    "Copy this link and send it to people you want to meet with",
+    window.location.href
+  );
+});
+
 //Prompt the user before leave chat room
 document.getElementById('leave-meeting').addEventListener('click', () => {
   const leaveRoom = confirm('Are you sure you want to leave Meetup?');
@@ -159,6 +167,4 @@ document.getElementById('leave-meeting').addEventListener('click', () => {
   } else {
   }
 });
-
-
 
