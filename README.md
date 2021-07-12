@@ -17,7 +17,7 @@ To build a fully functional prototype with at least one mandatory functionality 
 This is the link to video demo: 
 
 ## Features built
--------------------- 
+
 
 1. Toggling of audio stream
 2. Toggling of audio stream 
