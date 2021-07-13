@@ -87,18 +87,37 @@ nodemon
 
 <li>Open <strong>localhost 3030</strong> in your browser to see the home page of the website.</li>
 
+or
+<br>
+
+Click on [http://localhost:3030](http://localhost:3030) to view the functioninality.
+
+
 
 <br>
 <li><strong>To access the web app, in your project code folder, navigate to public/landing-page and from there open index.html on any browser of your preference.</strong></li>
+
+Path :  Public → Landing-page → [index.html ](https://github.com/aasthac522/MEETUP/blob/master/meetup/public/landing%20page/index.html)
+
 <br>
 
 
 ## Screenshots
 
 <br>
-<img src="ss\portfolio-3.jpeg" width="650" height="350"/>
-<img src="ss\portfolio-4.jpeg" width="650" height="350"/>
-<img src="ss\portfolio-2.jpeg" width="650" height="350"/>
+
+Landing Page
+
+<img src="ss\portfolio-3.jpeg" width="750" height="400"/>
+
+Video call
+
+<img src="ss\portfolio-4.jpeg" width="750" height="400"/>
+
+<img src="ss\portfolio-8.jpeg" width="750" height="400"/>
+
+Leave Meeting
+<img src="ss\portfolio-2.jpeg" width="750" height="400"/>
 
 
 
