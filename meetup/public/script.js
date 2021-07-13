@@ -168,3 +168,6 @@ document.getElementById('leave-meeting').addEventListener('click', () => {
   }
 });
 
+ // Asking the user his name through prompt
+ const userName = prompt('What is your name?')
+ socket.emit('new-user', userName)
