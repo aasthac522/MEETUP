@@ -14,13 +14,13 @@ To build a fully functional prototype with at least one mandatory functionality 
 
 ## Video Demo 
 
-This is the link to video demo: 
+This is the link to video demo: https://youtu.be/RG0CkX4oSVU
 
 ## Features built
 
 
 1. Toggling of audio stream
-2. Toggling of audio stream 
+2. Toggling of video stream 
 3. Easily join a meeting or start an instant meeting
 4. Best video meeting quality
 5. Easy access on any device
